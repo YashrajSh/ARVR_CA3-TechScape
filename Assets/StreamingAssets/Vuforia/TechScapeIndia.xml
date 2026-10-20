@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="techscapeindia_scantarget" size="10.000000 13.333333" />
+  </Tracking>
+</QCARConfig>
